@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=randomNumber
+comment1.params=
+comment1.target=randomNumber()
+comment2.params=
+comment2.target=int\ abandonNum1()
+comment3.params=
+comment3.target=int\ abandonNum2()
+comment4.params=
+comment4.target=int\ getrandomNum()
+comment5.params=
+comment5.target=void\ setrandomNum()
+comment6.params=
+comment6.target=int\ sideNum()
+numComments=7
